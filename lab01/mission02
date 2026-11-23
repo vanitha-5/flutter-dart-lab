@@ -1,0 +1,10 @@
+void main() {
+    var panel=1;
+    var board=1;
+    var chairs=65;
+    print("class inventory");
+    print("panel.$panel");
+    print("board.$board");
+    print("chairs.$chairs");
+    
+}
